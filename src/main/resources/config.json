@@ -6,6 +6,4 @@
   "coinAddPriority": 1,
   "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
 }
-"Push": {
-    "PushScKey": "SCU124829Tfefbcf6f5752c7c6d11c3f3d5d22e72c5fa8d785df395" //请填入你的Server酱微信推送的SCKEY（http://sc.ftqq.com/3.version）
-  }
+
